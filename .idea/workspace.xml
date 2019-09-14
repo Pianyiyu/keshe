@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8494feca-7703-49ad-8bcd-7f3c0b1fba12" name="Default Changelist" comment="" />
+    <list default="true" id="8494feca-7703-49ad-8bcd-7f3c0b1fba12" name="Default Changelist" comment="sss">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +24,9 @@
     <session id="-1601933768">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="105" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.closed" value="110" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.14" value="1" />
@@ -31,7 +34,7 @@
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="8" />
+          <entry key="project.open.time.2" value="9" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -43,31 +46,32 @@
           <entry key="project.open.time.7" value="19" />
           <entry key="project.open.time.8" value="15" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="110" />
+          <entry key="project.opened" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="871" />
+          <entry key="java" value="872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="871" />
+          <entry key="JAVA" value="872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="55359" />
+          <entry key="java" value="55363" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="55359" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="JAVA" value="55363" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -77,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/F58/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="380">
               <caret line="19" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -89,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/F58/Main3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
+            <state relative-caret-position="660">
               <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,11 +102,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Laohu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Big/BigNumberAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -123,6 +136,10 @@
       <find>has</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -133,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/Code109Clumsy.java" />
         <option value="$PROJECT_DIR$/src/main/Code105PrintFromTopToBottom.java" />
         <option value="$PROJECT_DIR$/src/main/Code110WidthOfBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/Code111MinDiffInBST.java" />
@@ -184,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/F58/Main.java" />
         <option value="$PROJECT_DIR$/src/F58/Main2.java" />
         <option value="$PROJECT_DIR$/src/F58/Main3.java" />
+        <option value="$PROJECT_DIR$/src/Big/BigNumberAdd.java" />
       </list>
     </option>
   </component>
@@ -213,19 +230,31 @@
     <option name="width" value="1890" />
     <option name="height" value="930" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="jsva" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaarg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsva" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaarg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsva" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaarg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Big" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsva" type="b2602c69:ProjectViewProjectNode" />
@@ -244,12 +273,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568372022836" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -471,11 +501,16 @@
       <workItem from="1568112398237" duration="4621000" />
       <workItem from="1568371805185" duration="38000" />
       <workItem from="1568444216512" duration="1253000" />
+      <workItem from="1568464310126" duration="727000" />
+      <workItem from="1568465042701" duration="393000" />
+      <workItem from="1568465439221" duration="244000" />
+      <workItem from="1568465685870" duration="167000" />
+      <workItem from="1568465855044" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="461156000" />
+    <option name="totallyTimeSpent" value="462924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,8 +523,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4724689" visible="true" weight="0.24575587" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4724689" visible="true" weight="0.26596606" />
       <window_info id="Structure" order="1" sideWeight="0.5275311" side_tool="true" weight="0.21907842" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -502,10 +538,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6820604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.43694493" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.43594307" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.6127886" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.64768684" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -525,6 +561,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sss" />
+    <option name="LAST_COMMIT_MESSAGE" value="sss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -574,13 +614,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/Code8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Code9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -906,7 +939,7 @@
     <entry file="file://$PROJECT_DIR$/src/Laohu.java" />
     <entry file="file://$PROJECT_DIR$/src/F58/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="380">
           <caret line="19" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -916,7 +949,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/F58/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
+        <state relative-caret-position="660">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -927,7 +960,14 @@
     <entry file="file://$PROJECT_DIR$/src/Laohu/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Big/BigNumberAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
